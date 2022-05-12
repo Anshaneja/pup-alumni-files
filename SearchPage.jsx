@@ -4,10 +4,6 @@ import profileImg from "../images/profile.jpeg";
 // Filter imports
 import Select from 'react-select';
 
-
-// Css imports
-import './searchPage.css';
-
 import { Dialog, Transition } from '@headlessui/react'
 import ProfileCard from "../Components/ProfileCard"
 
